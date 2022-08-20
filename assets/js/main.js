@@ -55,7 +55,7 @@ let a =prompt("Fügen Sie den Name des ersten Teams ein?");
 document.getElementById("hersog").innerHTML =a 
 
 let b =prompt("Fügen Sie den Name des zweiten Teams ein?");
-document.getElementById("triko").innerHTML =a 
+document.getElementById("triko").innerHTML = b
 
 }
 
